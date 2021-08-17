@@ -24,3 +24,9 @@
 - [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Designing Data Intensive Applications](https://www.amazon.fr/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
+
+
+## Réalisations :
+- Projet d'application CLI de pomodoro en Go : Gomodoro 
+  - [le repo](https://github.com/Lauric-h/gomodoro)
+
